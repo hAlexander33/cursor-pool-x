@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: cursor-pool-x, pool, rotation, quotas, endless, ai-tools, ide, cursor, token, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+cursor token pool rotation quotas endless ai-tools ide cursor-token-rotator cursor-pool-x cursor-token-pool windows portable prebuilt x64 free download
+related: cursor, token, pool, rotation, quotas, endless, ai-tools, ide
