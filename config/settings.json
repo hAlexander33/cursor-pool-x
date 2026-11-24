@@ -1,0 +1,23 @@
+{
+  "module": "cursor-pool-x",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "pool": {
+      "enabled": true
+    },
+    "quota": {
+      "enabled": true
+    },
+    "rotate": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
